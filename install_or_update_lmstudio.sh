@@ -30,4 +30,4 @@ rm lmstudio.AppImage
 
 ./start.sh
 ./status.sh
-printf "{$MAGENTA}Done${NC}\n"
+printf "${$MAGENTA}Done${NC}\n"

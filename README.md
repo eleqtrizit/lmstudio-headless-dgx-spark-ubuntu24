@@ -2,7 +2,7 @@
 
 This repository contains scripts for installing and managing [LM Studio](https://lmstudio.ai/) as a systemd user service on Linux systems. LM Studio is downloaded and run as an AppImage with Xvfb (X Virtual Framebuffer) to provide a headless display environment.
 
-Originally written for my DGX Spark, but works with any Ubuntu 22+.
+Originally written for my DGX Spark, but works with Ubuntu 22+ and Arch-based systems.
 
 After installation, you can control LM Studio with the [lms cli](https://lmstudio.ai/docs/cli).
 
