@@ -4,15 +4,15 @@ This repository contains scripts for installing and managing [LM Studio](https:/
 
 Originally written for my DGX Spark, but works with any Ubuntu 22+.
 
-After installation, you can control LM Studio with the [https://lmstudio.ai/docs/cli](lms cli).
+After installation, you can control LM Studio with the [lms cli](https://lmstudio.ai/docs/cli).
 
-+ [https://lmstudio.ai/blog/lms](more lms cli docs)
-+ [https://github.com/lmstudio-ai/lms](lms github repo)
++ [more lms cli docs](https://lmstudio.ai/blog/lms)
++ [lms github repo](https://github.com/lmstudio-ai/lms)
 
 **These scripts assume this repository is downloaded to `~/lmstudio`**
 
 ## Credit
-This is a take on https://run.tournament.org.il/running-headless-lm-studio-on-ubuntu/
+This is a take on [running headless LM Studio on Ubuntu](https://run.tournament.org.il/running-headless-lm-studio-on-ubuntu/)
 
 ## Prerequisites
 
