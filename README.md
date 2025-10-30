@@ -11,6 +11,12 @@ After installation, you can control LM Studio with the [lms cli](https://lmstudi
 
 **These scripts assume this repository is downloaded to `~/lmstudio`**
 
+## Quick Start
+
+- From ~/, `git clone https://github.com/eleqtrizit/lmstudio-headless-dgx-spark-ubuntu24.git`
+- `./first_time_install.sh` - never need to run this again.
+- `./install_or_update_lmstudio.sh` - run this as new versions arrive or just starting
+
 ## Credit
 This is a take on [running headless LM Studio on Ubuntu](https://run.tournament.org.il/running-headless-lm-studio-on-ubuntu/)
 
